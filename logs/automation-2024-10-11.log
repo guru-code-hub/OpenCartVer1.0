@@ -1,0 +1,44 @@
+2024-10-08 08:01:39.799 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-08 08:01:39.853 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-08 08:01:39.883 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-08 08:01:39.885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-08 08:01:39.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-08 08:01:39.909 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-08 08:01:39.949 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-08 08:01:39.951 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-08 08:01:39.953 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-08 08:01:39.973 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-08 08:01:40.005 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-08 08:01:40.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-08 08:01:40.009 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-08 08:01:40.028 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-08 08:01:40.075 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginTest DDT ***
+2024-10-08 08:01:56.269 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginTest DDT ***
+2024-10-08 08:02:11.582 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC003_LoginTest DDT ***
+2024-10-08 08:05:04.187 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-08 08:05:04.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml
+
+2024-10-08 08:05:14.496 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-08 08:05:30.734 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-08 08:05:30.734 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-08 08:05:38.200 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_AccountLoginTest ***
+2024-10-08 08:06:41.336 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-08 08:06:41.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml
+
+2024-10-08 08:06:49.279 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-08 08:07:05.426 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-08 08:07:05.427 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-08 08:07:12.289 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_AccountLoginTest ***
+2024-10-08 08:09:13.791 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\crossbrowsertesting.xml"
+2024-10-08 08:09:14.410 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\crossbrowsertesting.xml
+
+2024-10-08 08:09:21.914 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-08 08:09:31.614 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-08 08:09:38.262 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-08 08:09:38.262 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-08 08:09:48.325 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-08 08:09:48.325 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-11 23:25:27.048 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml"

@@ -1,0 +1,40 @@
+2024-10-06 00:09:59.945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:09:59.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-06 00:09:59.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-06 00:09:59.972 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\AppData\Local\Temp\testng-eclipse-2032716648\testng-customsuite.xml
+
+2024-10-06 00:10:00.014 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-10-06 00:10:00.481 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@702ed190: 153 ms
+2024-10-06 00:10:00.506 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@51650883: 24 ms
+2024-10-06 00:10:00.532 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7249dadf: 25 ms
+2024-10-06 00:10:00.547 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@600b0b7: 15 ms
+2024-10-06 00:10:00.563 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@77b7ffa4: 15 ms
+2024-10-06 00:10:00.564 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5ed190be: 0 ms
+2024-10-06 00:10:14.253 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-06 00:10:14.931 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml
+
+2024-10-06 00:10:22.991 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_AccountLoginTest ***
+2024-10-06 21:06:37.906 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-06 21:06:38.543 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml
+
+2024-10-06 21:06:54.182 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-06 21:06:54.188 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-06 21:06:54.220 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-06 21:06:55.617 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-06 21:06:56.001 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-06 21:06:56.005 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-06 21:06:56.009 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-06 21:06:56.065 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-06 21:06:56.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-06 21:06:56.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-06 21:06:56.175 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-06 21:06:56.248 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-06 21:06:56.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-06 21:06:56.331 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-06 21:06:56.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-06 21:06:56.416 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-06 21:06:56.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-06 21:06:56.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels

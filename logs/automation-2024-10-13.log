@@ -1,0 +1,56 @@
+2024-10-11 23:25:27.941 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml
+
+2024-10-11 23:25:28.736 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-11 23:25:28.788 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-11 23:25:28.789 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-11 23:26:51.814 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-11 23:26:52.457 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml
+
+2024-10-11 23:30:07.725 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml"
+2024-10-11 23:30:08.323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml
+
+2024-10-11 23:30:08.922 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-11 23:30:08.963 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-11 23:30:08.963 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-11 23:31:12.306 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml"
+2024-10-11 23:31:12.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml
+
+2024-10-11 23:31:13.497 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-11 23:31:13.536 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-11 23:31:13.537 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-11 23:34:24.264 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml"
+2024-10-11 23:34:24.871 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml
+
+2024-10-11 23:34:25.480 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-11 23:34:25.527 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-11 23:34:25.528 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-11 23:34:55.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml"
+2024-10-11 23:34:56.076 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\grid-docker.xml
+
+2024-10-11 23:37:57.988 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-11 23:37:58.575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml
+
+2024-10-11 23:38:11.104 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-11 23:38:26.901 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-11 23:38:26.901 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-11 23:38:33.460 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_AccountLoginTest ***
+2024-10-13 20:55:26.302 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-13 20:55:35.573 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-13 20:55:52.133 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-13 20:55:52.133 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-13 20:55:57.617 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_AccountLoginTest ***
+2024-10-13 21:12:52.197 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-13 21:13:00.333 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-13 21:13:16.076 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+2024-10-13 21:13:16.076 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+2024-10-13 21:13:21.631 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_AccountLoginTest ***
+2024-10-13 23:19:10.210 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\avgur\eclipse-workspace\OpenCartVer1.0\master.xml"
+2024-10-13 23:19:18.628 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2024-10-13 23:19:34.751 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
